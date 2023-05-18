@@ -594,7 +594,7 @@ public int Password
 
 [Official documentation: Serialization](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/serialization/)
 
-#### Q53. What is a delegate
+#### Q53. What is a delegate?
 
 - [ ] a variable that holds a reference to a value type and its content
 - [ ] a specific value type that can be used only in callback methods
